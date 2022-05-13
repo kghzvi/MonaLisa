@@ -1,0 +1,28 @@
+.face {
+    width: 700;
+    height: 700;
+    position:absolute;
+    left: 10;
+    top: 20;
+}
+
+#Eye1 {
+    width: 120;
+    height: 120;
+    position:absolute;
+    left: 230;
+    top: 150;
+}
+
+#Eye2 {
+    width: 120;
+    height: 120;
+    position:absolute;
+    left: 400;
+    top: 150;
+}
+
+.headline {
+    font: bold;
+    color: red;
+}

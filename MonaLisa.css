@@ -1,0 +1,43 @@
+#MonaLisa {
+    max-width: 500;
+    position:absolute;
+    left: 10;
+    top: 20;
+    z-index: 9;
+}
+
+#EyebackLeft {
+    width: 25;
+    position:absolute;
+    left: 198;
+    top: 186;
+    z-index: 1;
+}
+
+#EyebackRight {
+    width: 25;
+    position:absolute;
+    left: 249;
+    top: 186;
+    z-index: 2;
+}
+
+#LeftEye {
+    width: 30;
+    position:absolute;
+    left: 196;
+    top: 179;
+    z-index: 3;
+}
+
+#RightEye {
+    width: 20;
+    position:absolute;
+    left: 251;
+    top: 185;
+    z-index: 4;
+}
+
+.label {
+    z-index: 15;
+}
